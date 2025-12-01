@@ -155,7 +155,7 @@ const App: React.FC = () => {
             </div>
             <div>
               <h1 className="font-bold text-slate-800 dark:text-slate-100 text-lg leading-tight tracking-tight">
-                An Toàn Số AI
+                Cố vấn An toàn Số
               </h1>
                <p className="text-xs text-slate-500 dark:text-slate-400">Người bạn đồng hành tin cậy</p>
             </div>
