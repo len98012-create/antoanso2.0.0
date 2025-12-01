@@ -157,7 +157,7 @@ const App: React.FC = () => {
               <h1 className="font-bold text-slate-800 dark:text-slate-100 text-lg leading-tight tracking-tight">
                 An Toàn Số AI
               </h1>
-              <p className="text-[11px] font-medium text-slate-500 dark:text-slate-400 uppercase tracking-widest">Assistant</p>
+               <p className="text-xs text-slate-500 dark:text-slate-400">Người bạn đồng hành tin cậy</p>
             </div>
           </div>
           <div className="flex gap-2">
